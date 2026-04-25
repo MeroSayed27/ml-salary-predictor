@@ -38,3 +38,10 @@ Output: Predicted salary (model-generated)
 
 ## 🚀 Notes
 This project focuses on applying core machine learning concepts in a clear and practical way.
+
+---
+
+## ▶️ How to run
+```bash
+pip install pandas scikit-learn
+python main.py

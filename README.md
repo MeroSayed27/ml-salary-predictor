@@ -1,21 +1,25 @@
-# ML Salary Predictor 🚀
+# 💰 ML Salary Predictor
 
-A Machine Learning project that predicts salary based on years of experience using Linear Regression.
+## 📌 Overview
+This project builds a simple machine learning model to predict salary based on years of experience.
+
+The focus is on understanding the full workflow: from preparing data to training and evaluating a model.
 
 ---
 
-## 🧠 What this project does
-- Loads a dataset of salary vs experience
-- Trains a Linear Regression model
-- Predicts salary for new inputs
-- Demonstrates full ML workflow
+## ⚙️ What I Did
+- Loaded and explored the dataset  
+- Cleaned and structured the data  
+- Split data into training and testing sets  
+- Trained a Linear Regression model  
+- Evaluated predictions and model behavior  
 
 ---
 
 ## 🛠️ Tech Stack
-- Python
-- Pandas
-- Scikit-learn
+- Python  
+- Pandas  
+- Scikit-learn  
 
 ---
 
@@ -25,13 +29,12 @@ Output: Predicted salary (model-generated)
 
 ---
 
-## 🎯 Purpose
-This project was built to practice real-world Machine Learning workflow and prepare for junior ML Engineer roles.
+## 🎯 Key Takeaways
+- Importance of clean and structured data before modeling  
+- Understanding how simple models behave  
+- Building a complete ML workflow step by step  
 
 ---
 
-## 🚀 What I learned
-- Data preprocessing
-- Model training
-- Regression basics
-- Git & GitHub workflow
+## 🚀 Notes
+This project focuses on applying core machine learning concepts in a clear and practical way.
